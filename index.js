@@ -25,4 +25,6 @@ console.log(d);
 //smallest number of three numbers
 d=a<b?(a<c?a:c): (b<c?b:c);
 console.log(d);
+//sorting of numbers using terinary operator
+
 
